@@ -4,7 +4,32 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "day1": "ts-node day-1/both.ts",
+    "day2": "ts-node day-2/both.ts",
+    "day3": "ts-node day-3/both.ts",
+    "day4": "ts-node day-4/both.ts",
+    "day5": "ts-node day-5/both.ts",
+    "day6": "ts-node day-6/both.ts",
+    "day7": "ts-node day-7/both.ts",
+    "day8": "ts-node day-8/both.ts",
+    "day9": "ts-node day-9/both.ts",
+    "day10": "ts-node day-10/both.ts",
+    "day11": "ts-node day-11/both.ts",
+    "day12": "ts-node day-12/both.ts",
+    "day13": "ts-node day-13/both.ts",
+    "day14": "ts-node day-14/both.ts",
+    "day15": "ts-node day-15/both.ts",
+    "day16": "ts-node day-16/both.ts",
+    "day17": "ts-node day-17/both.ts",
+    "day18": "ts-node day-18/both.ts",
+    "day19": "ts-node day-19/both.ts",
+    "day20": "ts-node day-20/both.ts",
+    "day21": "ts-node day-21/both.ts",
+    "day22": "ts-node day-22/both.ts",
+    "day23": "ts-node day-23/both.ts",
+    "day24": "ts-node day-24/both.ts",
+    "day25": "ts-node day-25/both.ts"
   },
   "repository": {
     "type": "git",
@@ -18,6 +43,7 @@
   },
   "homepage": "https://github.com/bring-shrubbery/advent-of-code-2022#readme",
   "dependencies": {
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
   }
 }
